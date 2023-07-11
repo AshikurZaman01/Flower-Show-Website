@@ -87,7 +87,7 @@ main{
     margin-bottom: 20px;
 }
 
-
+/* Our Feature container section styles start*/
 .our-feature-container{
     display: flex;
     justify-content: space-around;
@@ -126,6 +126,8 @@ main{
     font-size: 15px;
     font-weight: bold;
 }
+/* Our Feature container section styles end*/
+
 /* Our Feature section styles end*/
 
 
